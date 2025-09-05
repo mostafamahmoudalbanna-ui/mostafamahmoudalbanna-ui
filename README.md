@@ -1,33 +1,23 @@
 # 👋 Hi, I'm Mostafa Mahmoud El-Banna  
 
-![Profile Views](https://komarev.com/ghpvc/?username=mostafabanna&label=Profile%20views&color=0e75b6&style=flat)  
-![C++](https://img.shields.io/badge/C%2B%2B-Beginner-blue)  
-![GitHub](https://img.shields.io/badge/GitHub-Learner-lightgrey)  
+![Profile Views](https://komarev.com/ghpvc/?username=mostafamahmoudalbanna-ui&label=Profile%20views&color=0e75b6&style=flat)  
+![C++](https://img.shields.io/badge/C%2B%2B-Learner-blue)  
+![English](https://img.shields.io/badge/English-Student-green)  
+![GitHub](https://img.shields.io/badge/GitHub-Beginner-lightgrey)  
 
 ---
 
 ## 🚀 About Me
-- 🌱 Currently learning: **C++**
-- 🎯 Goal: To become a skilled programmer and work on real-world projects
-- ⚡ Fun fact: I enjoy learning new things every day
+- 🌱 Currently learning **C++** programming.  
+- 📚 Improving my **English language** skills.  
+- 🎯 Goal: Step by step, I want to grow as a programmer.  
+- ✨ I believe small progress every day makes a big difference.  
 
 ---
 
-## 🛠️ Skills (in progress)
-- **C++ (beginner)**  
-- Git & GitHub basics  
+## 📬 Contact Me
+- ✉️ Email: **mostafa.mahmoud.albanna@gmail.com**  
 
 ---
 
-## 📊 GitHub Stats
-![Mostafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mostafabanna&show_icons=true&theme=tokyonight)
-
----
-
-## 📬 Connect with me
-- ✉️ Email: [اكتب إيميلك هنا]  
-- 💼 LinkedIn: [لو عندك لينكد إن]  
-
----
-
-⭐️ *This profile will grow as I learn more. Stay tuned for updates!*
+⭐️ *This profile is just the beginning of my journey. Stay tuned for more!*
